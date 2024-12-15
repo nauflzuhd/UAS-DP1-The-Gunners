@@ -1,2 +1,9 @@
 # UAS-DP1-The-Gunners
-Proyek UAS Muhammad Naufal Zuhdi dan Varrel Hutabarat
+Projek UAS Muhammad Naufal Zuhdi dan Varrel Hutabarat
+Nama Projek   : Kalkulator Belanja Harian
+Nama Kelompok : The Gunners
+Anggota       : -Muhammad Naufal Zuhdi (241401052)
+                -Varrel Hutabarat (241401031)
+                
+Link Google   : https://drive.google.com/drive/folders/18P1eDW65VTE5AaFe9vZ0BtqfdGZOObOt?usp=sharing
+Drive
