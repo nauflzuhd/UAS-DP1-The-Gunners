@@ -7,7 +7,7 @@ type //type yang digunakan program
         Nama: string; //untuk menyimpan nama
         Harga: real; //untuk menyimpan harga
         Jumlah: integer; //untuk menyimpan jumlah
-    end; //akhir dari record TBarang`
+    end; //akhir dari record TBarang
 
 var //variabel global yang digunakan
     Barang: array[0..100] of TBarang; //barang tipe data array dari tbarang
